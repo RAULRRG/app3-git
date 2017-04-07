@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.0</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>10</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor3</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>shift,lines,dribbles,book,blast,basic_linear,fade,fly,page,stack</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/rhomb/</ImageTemplate>
+            <ImageTemplateName>Rhomb</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#aaaaff</TemplateColor>
+            <TemplateFont>Bitter</TemplateFont>
+            <TemplateName>rhomb</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/comunicacion.png</url>
+                <title>comunicacion</title>
+                <filesize>1049397</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/comunicacion2.png</url>
+                <title>comunicacion2</title>
+                <filesize>946757</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/estructura.png</url>
+                <title>estructura</title>
+                <filesize>631411</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/fubndamentos.png</url>
+                <title>fubndamentos</title>
+                <filesize>806430</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/fundamentos2.png</url>
+                <title>fundamentos2</title>
+                <filesize>907756</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/java.png</url>
+                <title>java</title>
+                <filesize>409393</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/java2.png</url>
+                <title>java2</title>
+                <filesize>695716</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/Mantenimiento.png</url>
+                <title>Mantenimiento</title>
+                <filesize>1247487</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/mantenimiento2.png</url>
+                <title>mantenimiento2</title>
+                <filesize>1202010</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/Mc.png</url>
+                <title>Mc</title>
+                <filesize>1243811</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/Mc1.png</url>
+                <title>Mc1</title>
+                <filesize>607533</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/paso a paso.png</url>
+                <title>paso a paso</title>
+                <filesize>457036</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/paso a paso1.png</url>
+                <title>paso a paso1</title>
+                <filesize>605529</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/paso a paso2.png</url>
+                <title>paso a paso2</title>
+                <filesize>435103</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/paso a paso4.png</url>
+                <title>paso a paso4</title>
+                <filesize>210330</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/programacion.png</url>
+                <title>programacion</title>
+                <filesize>290373</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/programacion2.png</url>
+                <title>programacion2</title>
+                <filesize>340807</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/REdes.png</url>
+                <title>REdes</title>
+                <filesize>331844</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/REdes2.png</url>
+                <title>REdes2</title>
+                <filesize>484077</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/SO.png</url>
+                <title>SO</title>
+                <filesize>417539</filesize>
+            </Image>
+            <Image>
+                <url>F:/Nueva carpeta/DAM/2do parcial/aplicaciones/app3/imagenes/SO2.png</url>
+                <title>SO2</title>
+                <filesize>252203</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
